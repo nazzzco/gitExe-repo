@@ -7,3 +7,5 @@ Edited again in master branch.
 Hello again!!
 
 GitBash says hello!
+
+We love conflicts!
